@@ -8,9 +8,9 @@
 	<a href="https://hub.docker.com/r/rajnandan1/kener"><img src="https://img.shields.io/docker/pulls/rajnandan1/kener" alt="Docker Kener" /></a>
 </p>
 
-#### 👉 Truy cập máy chủ trực tiếp [tại đây](https://kener.ing)
+#### 👉 Truy cập máy chủ trực tiếp [tại đây](https://status.asakacloud.vn)
 
-#### 👉 Đọc tài liệu [tại đây](https://kener.ing/kener-docs)
+#### 👉 Đọc tài liệu tham khảo [tại đây](https://kener.ing/kener-docs)
 
 # Kener - Hệ thống Trang Trạng thái
 
@@ -83,3 +83,4 @@ Nó sử dụng các tập tin để lưu trữ dữ liệu. Các adapter khác 
 ![image](static/marken_tl.png)
 ![image](static/marken_theme.png)
 
+Fork Lại Bởi Đức Mạnh
