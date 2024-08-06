@@ -1,6 +1,6 @@
 - name: Panel
   description: Front Of Your View - If it downed, it didn't mean it come an end.
-  tag: "google-search"
+  tag: "AsakaPanel"
   image: "https://pterodactyl.io/logos/pterry.svg"
   api:
       method: GET
