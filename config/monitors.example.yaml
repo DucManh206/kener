@@ -1,26 +1,39 @@
-- name: Google Search
-  description: Search the world's information, including webpages, images, videos and more.
+- name: Panel
+  description: Front Of Your View - If it downed, it didn't mean it come an end.
   tag: "google-search"
-  image: "/google.png"
+  image: "https://pterodactyl.io/logos/pterry.svg"
   api:
       method: GET
-      url: https://www.google.com/webhp
-- name: Svelte Website
-  description: Cybernetically enhanced web apps
-  tag: "svelte-website"
-  api:
-      method: GET
-      url: https://svelte.dev/
-  image: "/svelte.svg"
-- name: Earth
-  description: Our blue planet
-  tag: "earth"
-  defaultStatus: "UP"
-  image: "/earth.png"
-- name: Frogment
-  description: A free openAPI spec editor and linter that breaks down your spec into fragments to make editing easier and more intuitive. Visit https://www.frogment.com
-  tag: "frogment"
-  image: "/frogment.png"
-  api:
-      method: GET
-      url: https://www.frogment.com
+      url: https://panel.asakacloud.vn
+- name: Node 4
+  description: One in our sexy network
+  tag: "node4"
+  ping: 
+    hostsV4: 
+      - n4.asaka.cloud
+    hostsV6:
+      - 0:0:0:0:0:0:0:1
+- name: Node 5
+  description: One in our sexy network
+  tag: "node5"
+  ping:
+    hostsV4:
+      - n5.asaka.cloud
+    hostsV6:
+      - 0:0:0:0:0:0:0:1
+- name: Node 6
+  description: One in our sexy network
+  tag: "node6"
+  ping:
+    hostsV4:
+      - n6.asaka.cloud
+    hostsV6:
+      - 0:0:0:0:0:0:0:1
+- name: Node 7
+  description: Serious Please ??
+  tag: "node7"
+  ping:
+    hostsV4:
+      - n7.asaka.cloud
+    hostsV6:
+      - 0:0:0:0:0:0:0:1
